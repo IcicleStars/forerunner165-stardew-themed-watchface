@@ -1,0 +1,13 @@
+# Garmin Build Output
+bin/
+gen/
+*.prg
+*.iq
+
+# developer key!
+*.der
+developer_key.der
+
+# IDE and OS Files
+.vscode/
+.DS_Store
